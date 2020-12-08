@@ -28,7 +28,7 @@ To generate production build, run below command inside borderfreechart/
 
 Reference:
 
-https://docs.aws.amazon.com/sdk-for-go/v1/developer-guide/using-dynamodb-with-go-sdk.html
-https://medium.com/@kevinlohier.kl/how-to-fetch-apis-in-react-and-effectively-use-data-responses-to-create-graphs-using-recharts-5a4eea4b5184
-https://github.com/olivere/elastic
-https://github.com/serverless/examples
+* https://docs.aws.amazon.com/sdk-for-go/v1/developer-guide/using-dynamodb-with-go-sdk.html
+* https://medium.com/@kevinlohier.kl/how-to-fetch-apis-in-react-and-effectively-use-data-responses-to-create-graphs-using-recharts-5a4eea4b5184
+* https://github.com/olivere/elastic
+* https://github.com/serverless/examples
